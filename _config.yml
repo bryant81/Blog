@@ -4,7 +4,7 @@
 
 # Site
 title: 81博客
-subtitle: 留下经历，沉淀知识，构建技能
+subtitle: 记下经历，沉淀知识，构建技能
 description: 技术改变生活
 author: Bryant81
 language: zh-Hans
@@ -34,7 +34,7 @@ titlecase: false # Transform title into titlecase
 external_link: true # Open external links in new tab
 filename_case: 0
 render_drafts: false
-post_asset_folder: false
+post_asset_folder: true
 relative_link: false
 future: true
 highlight:
