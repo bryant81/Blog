@@ -5,6 +5,7 @@ tags:
     - django
     - python 
 categories: Django
+toc: true
 ---
 
 ![django](django.jpeg)
